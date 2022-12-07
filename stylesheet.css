@@ -1,0 +1,50 @@
+body {
+    background-color:  #FFF6BF;
+ 
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: orange;
+    font-size: 60px;
+    text-shadow: 2px 2px 2px black, 0 0 15px #eb9513, 0 0 5px darkblue;
+
+}
+
+.col {
+column-count: 3;
+column-rule: 2px solid orange;
+column-gap: 50px;
+background-color: A5F1E9;
+font: papyrus;
+}
+
+.css-selector{
+    font-family: 'Noto Serif Khojki', serif;
+}
+
+.p1{
+
+    font-size: 20px 
+
+
+}
+
+.p2{
+
+    font-size: 20px
+    font-family: 'Noto Serif Khojki', serif;
+}
+
+.p3{
+
+    font-size: 20px
+
+}
+
+img{
+margin-left: 50px;
+border: double 10px orange;
+
+}
